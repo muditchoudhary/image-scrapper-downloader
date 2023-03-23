@@ -1,7 +1,7 @@
 # Image Scrapper and Downloader
 
-I am working on javaScript memeory-card game for which I need many images
-whihc I cannot download manually. So, I made a script which will scrape all the images's src links and its alt text and then download all the images in the current folder.
+I am working on a JavaScript memory-card game for which I need many images
+which I cannot download manually. So, I made a script that will scrape all the images' src links and their alt text and then download all the images in the current folder.
 
 
-- **Note:** Won't for work other website. Due to differnet html layout
+- **Note:** Won't for work another website. Due to differnet html layout
